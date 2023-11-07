@@ -27,6 +27,6 @@ In the project directory you have the following options to run project:
    ```sh
     $ python manage.py runserver
     ```
-
+5. you can search for swagger and see all endpoint:http://127.0.0.1:8000/swagger/
 
 
